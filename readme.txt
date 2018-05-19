@@ -1,4 +1,4 @@
 I am is readme.txt file
 Git is a version control system.
-
+Git is free software distributed under the GPL
 
